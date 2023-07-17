@@ -35,5 +35,5 @@ The final presentation can be found [here](https://github.com/ethanbenavides/App
 
 ## Certificates
 Verification of the certificate can be done by clicking the image below:
-![<img width="632" alt="image" src="https://github.com/ethanbenavides/Applied-Data-Science-Capstone/assets/57383185/ae7401e1-6d53-4e54-b2cd-a8b8a20677e8">](https://github.com/ethanbenavides/Applied-Data-Science-Capstone/files/12071879/Applied.Data.Science.Capstone.Certificate.pdf)
+![img width="632" alt="image" src="https://github.com/ethanbenavides/Applied-Data-Science-Capstone/assets/57383185/ae7401e1-6d53-4e54-b2cd-a8b8a20677e8"](https://github.com/ethanbenavides/Applied-Data-Science-Capstone/files/12071879/Applied.Data.Science.Capstone.Certificate.pdf)
 
