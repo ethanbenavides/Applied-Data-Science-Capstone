@@ -40,4 +40,4 @@ The final presentation can be found [here](https://github.com/ethanbenavides/App
 
 ## Certificates
 Verification of the certificate can be done by clicking the image below:
-![Cert](https://coursera.org/share/3c2feafc69a566d9f873fa5ca1721012)
+[![](https://example.com/openai-logo.png)](https://coursera.org/share/3c2feafc69a566d9f873fa5ca1721012)
