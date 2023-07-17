@@ -40,4 +40,5 @@ The final presentation can be found [here](https://github.com/ethanbenavides/App
 
 ## Certificates
 Verification of the certificate can be done by clicking the image below:
-[![](https://example.com/openai-logo.png)](https://coursera.org/share/3c2feafc69a566d9f873fa5ca1721012)
+
+[<img width="632" alt="image" src="https://github.com/ethanbenavides/Applied-Data-Science-Capstone/assets/57383185/7985707e-6bc5-48d1-a0c2-93c5d1c4e72a">]([https://coursera.org/share/3c2feafc69a566d9f873fa5ca1721012](https://coursera.org/share/1465373389488eb34a2a28dbe19bc72a)https://coursera.org/share/1465373389488eb34a2a28dbe19bc72a)
