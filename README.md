@@ -7,4 +7,18 @@ This project is my capstone project for the IBM Professional Data Science Certif
  - Web scraping can be found [here](https://github.com/ethanbenavides/Applied-Data-Science-Capstone/blob/71f960302d459c9f0cef7705edcd0fd8092f97c7/Data%20Collection%20-%20Web%20Scraping.ipynb).
 
 ## Part 2: Exploratory Analysis and Understanding
-- SQL queries: 
+- Exploratory data analysis using visualization can be found [here](https://github.com/ethanbenavides/Applied-Data-Science-Capstone/blob/a6fbd2a877342b63b302f20a5a26d365701cfd78/Exploratory%20Data%20Analysis%20-%20Visualization.ipynb).
+- Exploratory data analysis using SQL queries can be found [here](https://github.com/ethanbenavides/Applied-Data-Science-Capstone/blob/a6fbd2a877342b63b302f20a5a26d365701cfd78/Exploratory%20Data%20Analysis%20-%20SQL.ipynb).
+- Interactive visual analytics using Folium (Geographic Map) can be found [here](https://github.com/ethanbenavides/Applied-Data-Science-Capstone/blob/a6fbd2a877342b63b302f20a5a26d365701cfd78/Interactive%20Visual%20Analytics%20-%20Folium.ipynb).
+- Interactive visual analytics using Plotly Dash dashboards can be found [here](https://github.com/ethanbenavides/Applied-Data-Science-Capstone/blob/a6fbd2a877342b63b302f20a5a26d365701cfd78/Interactive%20Visual%20Analytics%20-%20Plotly%20Dash%20Dashboard.py).
+
+## Part 3: Algorithm Prediction and Comparison
+- Predictive analysis using classification techniques can be found [here](https://github.com/ethanbenavides/Applied-Data-Science-Capstone/blob/a6fbd2a877342b63b302f20a5a26d365701cfd78/Predictive%20Analysis%20(Classification).ipynb).
+
+## Part 4: Final Presentation and Results
+- The final presentation can be found [here](https://github.com/ethanbenavides/Applied-Data-Science-Capstone/blob/a6fbd2a877342b63b302f20a5a26d365701cfd78/IBM%20Data%20Science%20Capstone%20Project.pdf). This contains a compiled presentation that includes an:
+-  Executive Summary
+-  Introduction
+-  Methodology
+-  Results
+-  Conslusions 
