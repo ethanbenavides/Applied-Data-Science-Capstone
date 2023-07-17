@@ -16,7 +16,7 @@ This project is my capstone project for the IBM Professional Data Science Certif
 - Predictive analysis using classification techniques can be found [here](https://github.com/ethanbenavides/Applied-Data-Science-Capstone/blob/a6fbd2a877342b63b302f20a5a26d365701cfd78/Predictive%20Analysis%20(Classification).ipynb).
 
 ## Part 4: Final Presentation and Results
-The final presentation can be found [here](https://github.com/ethanbenavides/Applied-Data-Science-Capstone/blob/a6fbd2a877342b63b302f20a5a26d365701cfd78/IBM%20Data%20Science%20Capstone%20Project.pdf). This contains a compiled presentation that includes an:
+The final presentation can be found [here](https://github.com/ethanbenavides/Applied-Data-Science-Capstone/blob/a6fbd2a877342b63b302f20a5a26d365701cfd78/IBM%20Data%20Science%20Capstone%20Project.pdf). This contains a detailed presentation that includes the following:
 -  Executive Summary
 -  Introduction
 -  Methodology
