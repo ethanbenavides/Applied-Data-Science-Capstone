@@ -39,6 +39,6 @@ The final presentation can be found [here](https://github.com/ethanbenavides/App
 - Structuring and presenting a data-findings report
 
 ## Certificates
-Verification of the certificate can be found [here](https://coursera.org/share/1465373389488eb34a2a28dbe19bc72a):
+Certificate verification can be found [here](https://coursera.org/share/1465373389488eb34a2a28dbe19bc72a):
 
 ![image](https://github.com/ethanbenavides/Applied-Data-Science-Capstone/assets/57383185/4493ccb5-6364-4c4b-a185-1c239a78fea8)
